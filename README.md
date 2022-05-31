@@ -30,11 +30,11 @@ While **_READMEs_** can be written in any text file format, the most common one 
 
 In this blog, you will learn about the Markdown file or also called the .md file.
 
-1. What is an Md file?
-2. Where an Md file is used?
-3. How to Create an Md File?
-4. How to write an Md file with proper Syntax?
-5. How to Read/Open an Md File?  
+1. [What is an Md file](#what-is-an-md-file)?
+2. [Where an Md file is used](#where-an-md-file-is-used)?
+3. [How to Create an Md File](#how-to-create-a-readmemd-file)?
+4. [How to write an Md file with proper Syntax](#how-to-write-an-md-file-with-proper-syntax)?
+5. [How to Read/Open an Md File](#how-to-read/open-an-md-file)?  
 
 ### What is an Md file?
 
@@ -235,3 +235,12 @@ For python:
 ```python
 print(Hello)
 ```
+
+[^1]: (This is to refer a stable)
+
+
+[]:
+[]:
+[]:
+[]:
+[]:
