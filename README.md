@@ -81,18 +81,24 @@ Ways to display a Normal, Bold, Italic, Strikethrough text.
 * Italic text :- Can be typed between pair of Underscores → _text_
 * Bold text :- Can be typed between a pair of two Asterisk → **text**
 * Strikethrough :- Can be typed between a pair of two Tilde → ~~text~~
-* 
+
 ![example](https://miro.medium.com/max/700/1*D_L7ckXlvopBwqg6gvfUMw.png)
 
 **HEADING**
 
-Heading can be typed in different sizes ranging from 1–6 by adding hash/pound. It can be typed in the following ways.
+Heading can be typed in different sizes ranging from 1–6 by adding hash/pound. It can be typed in the following ways.  
+
 
 *Max size 1 → #Heading 1
+
 *Size 2 → ##Heading 2
+
 *Size 3 → ###Heading 3
+
 *Size 4 → ####Heading 4
+
 *Size 5→ #####Heading 5
+
 *Min Size 6 → ######Heading 6
 
 ![heading](https://miro.medium.com/max/700/1*9cKdze0h33WxBo3_ZrtEFA.png)
@@ -184,9 +190,7 @@ To make a simple line use 3 dashes or asterisk.
 To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash (\) in front of the character.
 
 >\* Without the backslash, this would be a bullet in an unordered list.
-
 >The rendered output looks like this:
-
 >* Without the backslash, this would be a bullet in an unordered list.
 
 _Markdown provides backslash escapes for the following characters_:
