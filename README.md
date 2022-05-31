@@ -34,7 +34,7 @@ In this blog, you will learn about the Markdown file or also called the .md file
 2. [Where an Md file is used](#where-an-md-file-is-used)?
 3. [How to Create an Md File](#how-to-create-a-readmemd-file)?
 4. [How to write an Md file with proper Syntax](#how-to-write-an-md-file-with-proper-syntax)?
-5. [How to Read/Open an Md File](#how-to-read/open-an-md-file)?  
+5. [How to Read/Open an Md File](#how-to-readopen-an-md-file)?  
 
 ### What is an Md file?
 
@@ -208,7 +208,7 @@ _Markdown provides backslash escapes for the following characters_:
 * . dot
 * ! exclamation mark
 
-**How to Read/Open an Md File?**
+#### How to Read/Open an Md File?
 
 To Read/Open a .md file you can use any text editor. There are plugins for many editors (e.g. Atom, Emacs, Sublime Text, Vim, and Visual Studio Code) that allow you to preview Markdown while you are editing it.
 
