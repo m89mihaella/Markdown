@@ -34,7 +34,11 @@ In this blog, you will learn about the Markdown file or also called the .md file
 2. [Where an Md file is used](#where-an-md-file-is-used)?
 3. [How to Create an Md File](#how-to-create-a-readmemd-file)?
 4. [How to write an Md file with proper Syntax](#how-to-write-an-md-file-with-proper-syntax)?
+<<<<<<< HEAD
 5. [How to Read/Open an Md File](#how-to-readopen-an-md-file)?  
+=======
+5. [How to Read/Open an Md File](#how-to-read-/-open-an-md-file)?  
+>>>>>>> db4a4a43455d3b5fc4f02cd4fb977031984b410a
 
 ### What is an Md file?
 
