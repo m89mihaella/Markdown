@@ -208,7 +208,7 @@ _Markdown provides backslash escapes for the following characters_:
 * . dot
 * ! exclamation mark
 
-**How to Read/Open an Md File?**
+#### How to Read/Open an Md File?
 
 To Read/Open a .md file you can use any text editor. There are plugins for many editors (e.g. Atom, Emacs, Sublime Text, Vim, and Visual Studio Code) that allow you to preview Markdown while you are editing it.
 
